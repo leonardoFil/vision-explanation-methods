@@ -39,6 +39,7 @@ CLASSIFIERS = [
 DEPENDENCIES = [
     'numpy',
     'tqdm',
+    'ultralytics',
     # TODO: remove this dependency
     'matplotlib<3.7.0',
     'ml_wrappers'
